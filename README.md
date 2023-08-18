@@ -8,3 +8,7 @@ Texty a rozcestníky se vždy zobrazují po rozkliknutí složky pod výpisem so
 
 - [studijní materiály](/studijni-materialy)
 - [zadání a řešení úloh](/ulohy)
+
+---
+
+Archiv úloh z proběhlých ročníků se nachází v [tomto repozitáři](https://github.com/delta-cs/seminar-archive).
