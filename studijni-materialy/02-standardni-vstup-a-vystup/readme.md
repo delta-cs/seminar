@@ -80,9 +80,9 @@ cat file1.txt file2.txt | grep "bylo"
 Výstupem je
 
 ```
-Těm, co je dobře, **bylo** by lépe,
-**bylo**-li by lépe těm, co je hůře,
-co je dobře, **bylo** hůře.
+Těm, co je dobře, bylo by lépe,
+bylo-li by lépe těm, co je hůře,
+co je dobře, bylo hůře.
 ```
 
 `cat` spojil soubory a zapsal na stdout. Z toho data přetekla do stdin `grep`u a ten na svůj stdout vypsal řádky obsahující „bylo“. To už je skoro hotovo, my ale potřebujeme číselný údaj – kolik takových řádků je. K tomuto účelu slouží příkaz `wc` (word count). Na stdin dostane text a v základním nastavení zapíše na stdout počet řádků, slov a znaků v něm. Pomocí přepínače `-l` (lines) lze změnit jeho chování, aby vypisoval pouze první údaj. Do jeho vstupu přesměrujeme předchozí výstup `grep`u, a to stejným způsobem, jako z `cat` do `grep`, čili svislítkem:
