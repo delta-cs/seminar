@@ -24,4 +24,4 @@ Vaše řešení spouštíme na těchto verzích jazyků/kompilátorů:
 - Python 3.6
 
 Funkce z pozdějších verzí nemusí být dostupné. V případě, že byste takovou funkci použili, dozvíte se to po
-odevzdání chybovou hláškou a nahlédnutím do diff output (viz předchozí sekce nápovědy).
+odevzdání chybovou hláškou a nahlédnutím do diff output (vizte sekci Odevzdání v [nápovědě](https://pardubicky-hacker.delta-skola.cz/public/help)).
