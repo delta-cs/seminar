@@ -17,3 +17,8 @@ Na vstupu programu bude jedno celé číslo.
 ```
 360
 ```
+
+---
+
+- [řešení](/ulohy/03-ozvena/reseni)
+- [testy](/ulohy/03-ozvena/testy)

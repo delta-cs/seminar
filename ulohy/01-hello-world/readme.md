@@ -24,3 +24,8 @@ nehledě na to, jaký (nebo jestli vůbec) přijde vstup.
 ```
 Hello, world!
 ```
+
+---
+
+- [řešení](/ulohy/01-hello-world/reseni)
+- [testy](/ulohy/01-hello-world/testy)

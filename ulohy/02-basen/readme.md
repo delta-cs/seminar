@@ -27,3 +27,8 @@ z plna hrdla zpivalo.
 Na tranzistor k tomu hralo,
 do rytmu se kyvalo.
 ```
+
+---
+
+- [řešení](/ulohy/02-basen/reseni)
+- [testy](/ulohy/02-basen/testy)

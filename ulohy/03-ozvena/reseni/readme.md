@@ -8,3 +8,11 @@ ukládán do proměnné (ačkoli to není nutné) a následně jednoduše vypsá
 Mimochodem, na vstup sice přichází celé číslo, program s ním ale celou dobu pracuje jako s textem. Kdyby bylo potřeba s
 ním provádět početní operace, muselo by dojít k převedení na číselný datový typ. Na to samozřejmě v budoucích úlohách
 dojde.
+
+---
+
+- [řešení v C++](/ulohy/03-ozvena/reseni/main.cpp)
+- [řešení v C#](/ulohy/03-ozvena/reseni/main.cs)
+- [řešení v Javě](/ulohy/03-ozvena/reseni/Main.java)
+- [řešení v JavaScriptu](/ulohy/03-ozvena/reseni/main.js)
+- [řešení v Pythonu](/ulohy/03-ozvena/reseni/main.py)
