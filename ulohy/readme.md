@@ -12,3 +12,5 @@ Složka úlohy vždy obsahuje
 
 - září
   1. [Hello world](/ulohy/01-hello-world)
+  2. [Báseň](/ulohy/02-basen)
+  3. [Ozvěna](/ulohy/03-ozvena)
