@@ -64,9 +64,9 @@ V IDE od JetBrains je tlačítko s ikonou brouka:
 Po spuštění se běh skutečně zastaví a to těsně před tím, než se zvýrazněný řádek s breakpointem vykoná. V rozhraní IDE se objeví ovládací prvky:
 
 - *step over* pro vykonání dalšího kroku,
-- *******step in******* vás v případě, že stojíte na řádku s funkcí přenese do ní,
+- *step in* vás v případě, že stojíte na řádku s funkcí přenese do ní,
 - *step out* naopak vyskočí s funkce ven
-- *********continue********* nechá program běžet do dalšího breakpointu nebo do konce.
+- *continue* nechá program běžet do dalšího breakpointu nebo do konce.
 
 V IDE sekci *variables* či *locals* se zobrazují existující proměnné. Pravým tlačítkem se dají různě připínat, abyste měli ty důležité stále na očích. Je vidět jejich aktuální hodnota a lze ji dokonce změnit.
 
