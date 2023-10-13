@@ -1,4 +1,4 @@
-# Pardubický hacker
+# Pardubický hacker – programování pro ZŠ
 
 Tento repozitář slouží k zveřejnění zadání a řešení úloh aktuálního ročníku [Pardubického hackera](https://www.delta-skola.cz/pardubicky-hacker-programovani-pro-zs) a také příslušných studijních materiálů.
 
