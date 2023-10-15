@@ -101,4 +101,4 @@ Diagram takového toku dat:
 
 ![diagram datového toku mezi příkazy](diagram.svg)
 
-Toto je příklad jednoho z mnoha využití standardních proudů. Jistě si dovedete představit, že přesměrování dat mezi programy skýtá velké možnosti.
+Toto je příklad jednoho z mnoha využití standardních proudů. Jistě si dovedete představit, že přesměrování dat mezi programy skýtá široké možnosti.
