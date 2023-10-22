@@ -1,6 +1,6 @@
 # Ternární operátor
 
-Šikovnou drobností umožňující elegantní vyhodnocení výrazu je takzvaný ternární operátor (angl. *
+Šikovnou drobností umožňující elegantní vyhodnocení výrazu je takzvaný ternární operátor (angl.
 *ternary operator*). Platí o něm, že vždy **vrací nějakou hodnotu** – jednu ze dvou. Která
 bude vrácena, záleží na podmínce uvedené v ternárním operátoru. Jeho syntaxe je tedy
 
