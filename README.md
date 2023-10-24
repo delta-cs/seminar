@@ -6,8 +6,8 @@ Texty a rozcestníky se vždy zobrazují po rozkliknutí složky pod výpisem so
 
 ---
 
-- [studijní materiály](/studijni-materialy)
-- [zadání a řešení úloh](/ulohy)
+- [studijní materiály](studijni-materialy)
+- [zadání a řešení úloh](ulohy)
 
 ---
 
