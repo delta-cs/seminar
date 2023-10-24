@@ -14,3 +14,10 @@ Složka úlohy vždy obsahuje
   1. [Hello world](01-hello-world)
   2. [Báseň](02-basen)
   3. [Ozvěna](03-ozvena)
+
+- říjen: podmínky
+  1. [Velikost písmene](04-velikost-pismene)
+  2. [Šachový král](05-sachovy-kral)
+  3. [Denní rozvrh](06-denni-rozvrh)
+  4. [Vysvědčení](07-vysvedceni)
+  5. [Bod v kruhu](08-bod-v-kruhu)
