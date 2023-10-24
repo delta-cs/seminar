@@ -11,8 +11,8 @@ dojde.
 
 ---
 
-- [řešení v C++](/ulohy/03-ozvena/reseni/main.cpp)
-- [řešení v C#](/ulohy/03-ozvena/reseni/main.cs)
-- [řešení v Javě](/ulohy/03-ozvena/reseni/Main.java)
-- [řešení v JavaScriptu](/ulohy/03-ozvena/reseni/main.js)
-- [řešení v Pythonu](/ulohy/03-ozvena/reseni/main.py)
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

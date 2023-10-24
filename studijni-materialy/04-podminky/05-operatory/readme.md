@@ -6,5 +6,5 @@ Kromě `<` a `>` jsou k dispozici také další znaménka (operátory):
 - `>=` – větší než nebo rovno,
 - `==` – rovná se,
 - `!=` – nerovná se,
-- `!` – [negace](/studijni-materialy/04-podminky/05-operatory/01-negace)
-- `&&` – [logické operátory](/studijni-materialy/04-podminky/05-operatory/02-logicke-operatory).
+- `!` – [negace](01-negace)
+- `&&` – [logické operátory](02-logicke-operatory).

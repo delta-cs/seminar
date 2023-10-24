@@ -30,5 +30,5 @@ do rytmu se kyvalo.
 
 ---
 
-- [řešení](/ulohy/02-basen/reseni)
-- [testy](/ulohy/02-basen/testy)
+- [řešení](reseni)
+- [testy](testy)

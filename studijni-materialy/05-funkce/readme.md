@@ -4,12 +4,12 @@ Vysvětlení funkcí a jejich syntaxe. Doporučené je chronologické čtení. K
 
 Na stránce s příklady (poslední bod níže) nalezente v každém jazyce ukázku, jak může vypadat syntaxe funkce v řešení úlohy Pardubického hackera. Doporučeno je příklady prohlédnout buď když funkce již znáte, anebo až po pročtení všech předchozích stránek.
 
-1. [Definice a volání](/studijni-materialy/05-funkce/01-definice-a-volani)
-2. [Parametry](/studijni-materialy/05-funkce/02-parametry)
-3. [Návratová hodnota](/studijni-materialy/05-funkce/03-navratova-hodnota)
-4. [Přístup k vnějším proměnným](/studijni-materialy/05-funkce/04-pristup-k-vnejsim-promennym)
-5. [Rekurze](/studijni-materialy/05-funkce/05-rekurze)
-6. [Příklady](/studijni-materialy/05-funkce/06-priklady)
+1. [Definice a volání](01-definice-a-volani)
+2. [Parametry](02-parametry)
+3. [Návratová hodnota](03-navratova-hodnota)
+4. [Přístup k vnějším proměnným](04-pristup-k-vnejsim-promennym)
+5. [Rekurze](05-rekurze)
+6. [Příklady](06-priklady)
 
 Funkce nejsou v Pardubickém hackerovi zvláštním tématem, kterému by byl přidělen celý měsíc. Důvodem je, že funkce ve skutečnosti neumožňují z hlediska fungování programu nic nového, čeho by se nedalo dosáhnout i bez nich. To třeba u podmínek rozhodně neplatí – bez těch není možné měnit průběh programu například na základě uživatelského vstupu. Jsou tedy úlohy a problémy, které bez použití podmínek vyřešit nikdy nelze. Toto se o funkcích říci nedá – každý program, který je využívá, se dá přepsat tak, aby je nepoužil a přitom fungoval stejně. A to tak, že se zkrátka tělo funkce v kódu nakopíruje na všechna místa, kde byla funkce volána. Žádná úloha ani problém tedy jejich použití přímo nevyžaduje.
 

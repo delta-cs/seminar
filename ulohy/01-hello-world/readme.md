@@ -27,5 +27,5 @@ Hello, world!
 
 ---
 
-- [řešení](/ulohy/01-hello-world/reseni)
-- [testy](/ulohy/01-hello-world/testy)
+- [řešení](reseni)
+- [testy](testy)

@@ -12,8 +12,8 @@ minulé úloze – jazyk sám.
 
 ---
 
-- [řešení v C++](/ulohy/02-basen/reseni/main.cpp)
-- [řešení v C#](/ulohy/02-basen/reseni/main.cs)
-- [řešení v Javě](/ulohy/02-basen/reseni/Main.java)
-- [řešení v JavaScriptu](/ulohy/02-basen/reseni/main.js)
-- [řešení v Pythonu](/ulohy/02-basen/reseni/main.py)
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

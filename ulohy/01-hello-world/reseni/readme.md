@@ -6,8 +6,8 @@ dělají automaticky.
 
 ---
 
-- [řešení v C++](/ulohy/01-hello-world/reseni/main.cpp)
-- [řešení v C#](/ulohy/01-hello-world/reseni/main.cs)
-- [řešení v Javě](/ulohy/01-hello-world/reseni/Main.java)
-- [řešení v JavaScriptu](/ulohy/01-hello-world/reseni/main.js)
-- [řešení v Pythonu](/ulohy/01-hello-world/reseni/main.py)
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)
