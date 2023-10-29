@@ -3,7 +3,7 @@ import math
 
 
 def read_float() -> float:
-    return float(sys.stdin.readline())
+    return float(input())
 
 
 def lies_inside(radius: float, centerX: float, centerY: float, pointX: float, pointY: float) -> bool:
