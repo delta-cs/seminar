@@ -16,4 +16,4 @@ Console.WriteLine("Hello, world!");
 2. [For](02-for)
 3. [Break a continue](03-break-a-continue)
 
-Mimochodem, použitím cyklů se dá plně nahradit jakýkoli program napsaný za pomoci rekurze. Ta je rozebrána ve [výukových materiálech o funkcích](https://github.com/delta-cs/seminar/tree/main/studijni-materialy/05-funkce).
+Mimochodem, použitím cyklů se dá plně nahradit jakýkoli program napsaný za pomoci rekurze. Ta je rozebrána ve [výukových materiálech o funkcích](/studijni-materialy/05-funkce).
