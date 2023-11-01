@@ -7,3 +7,4 @@ Vzdělávací texty k různým tématům z informatiky, užitečné mimo jiné p
 3. [Tipy k řešení](03-tipy-k-reseni)
 4. [Podmínky](04-podminky)
 5. [Funkce](05-funkce)
+6. [Cykly](06-cykly)
