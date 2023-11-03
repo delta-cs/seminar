@@ -22,5 +22,5 @@ Složka úlohy vždy obsahuje
   4. [Vysvědčení](07-vysvedceni)
   5. [Bod v kruhu](08-bod-v-kruhu)
   6. [Léky](09-leky)
-  7. [Roboti a bedny](10-roboti-bedny)
+  7. [Roboti a bedny](10-roboti-a-bedny)
   8. [Dva trojúhelníky](11-dva-trojuhelniky)
