@@ -72,3 +72,8 @@ Rovina vypadá takto:
 Po otočení a překlopení druhého trojúhelníku je vidět, že jsou podobné:
 
 <img src="example2-2.webp" height="200" alt="rovina v příkladu č. 2"/>
+
+---
+
+- [řešení](reseni)
+- [testy](testy)

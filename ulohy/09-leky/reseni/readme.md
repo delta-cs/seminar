@@ -17,3 +17,11 @@ a zároveň
 Všechny tři body tudíž musí platit, aby si Tonda daný lék vzal.
 
 Na konci se v zadaném pořadí podle příslušné proměnné vypíše anebo nevypíše barva každého léku.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

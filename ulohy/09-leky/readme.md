@@ -49,3 +49,8 @@ yellow
 ### Vysvětlení
 
 V 15:00 je čas, aby si Tonda vzal bílou i žlutou pilulku, červenou ale nikoli.
+
+---
+
+- [řešení](reseni)
+- [testy](testy)

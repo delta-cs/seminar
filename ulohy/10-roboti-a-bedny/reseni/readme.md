@@ -15,3 +15,11 @@ Vyjde-li desetinné číslo, je ho tentokrát nutné zaokrouhlit nahoru – kdy�
 V této variantě zase nehraje roli počet přenesených beden `b`, protože těch je vždy potřeba přenést stejně.
 
 Výsledek vrácený ze zvolené funkce se uloží do předpřipravené proměnné, která se nakonec vypíše.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

@@ -31,3 +31,11 @@ nebo naopak
 Je-li podmínka splněna, vrací se `true`. Jinak se, pro případ, že strany byly zadány v jiném pořadí, `ratio` změní na poměr `b` ku `k`. Opakuje se obdobná podmínka se zbylými stranami a stejně tak poté podmínka třetí. Když žádná neprojde, až pak se vrací `false`.
 
 Ve funkci `solve` se podle návratové hodnoty vrací buď `similar` anebo až nakonec `different`. Je dobré si všimnout, že na pořadí podmínek v `solve` záleží: Pokud trojúhelníky nelze sestrojit, pak ani nesejde na tom, zda jsou shodné či podobné. Proto se nerovnost zjišťuje jako první. A také každé dva podobné trojúhelníky jsou zároveň shodné. Shodnost se tedy musí kontrolovat před podobností, jinak by na ni ani nedošlo.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

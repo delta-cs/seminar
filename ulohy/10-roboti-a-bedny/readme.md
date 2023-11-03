@@ -72,3 +72,8 @@ Další číslicí (`c`) je 2, dostáváme tedy dobu (`t2`) a počítáme, **kol
 jim to trvalo tuto dobu** (8 minut).
 
 Výsledek je, že robotů by muselo být alespoň 6.
+
+---
+
+- [řešení](reseni)
+- [testy](testy)
