@@ -25,6 +25,6 @@ Složka úlohy vždy obsahuje
   7. [Roboti a bedny](10-roboti-a-bedny)
   8. [Dva trojúhelníky](11-dva-trojuhelniky)
   9. [Dresy](12-dresy)
-  10. [Trojúhelník](13-trojuhlenik)
+  10. [Trojúhelník](13-trojuhelnik)
   11. [Balení do krabice](14-baleni-do-krabice)
   12. [Desítkový rozklad](15-desitkovy-rozklad)
