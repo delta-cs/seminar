@@ -24,7 +24,7 @@ Na vstupu programu bude čas – dvě celá čísla:
 - na 1. řádku hodiny (0 až 23),
 - na 2. řádku minuty (0 až 59).
 
-Pozn.: hodiny a minuty se formátují na dvě cifry. Např. 6:00 by tedy bylo
+Pozn.: hodiny a minuty se neformátují na dvě cifry. Např. 6:00 by tedy bylo
 
 ```
 6
