@@ -1,6 +1,6 @@
 # Studijní materiály
 
-Vzdělávací texty k různým tématům z informatiky, užitečné mimo jiné pro řešení úloh Pardubického hackera. Jsou rozděleny do složek podle tématu.
+Vzdělávací texty k různým tématům z informatiky, užitečné mimo jiné pro řešení úloh Pardubického hackera.
 
 1. [Reprezentace dat v počítači](01-reprezentace-dat-v-pocitaci)
 2. [Standardní vstup a výstup](02-standardni-vstup-a-vystup)
