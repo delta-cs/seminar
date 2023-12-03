@@ -36,7 +36,7 @@ for (int i = 0; i < numbers.Length; i++)
 }
 ```
 
-Program po vytvoření pole začne vykonávat cyklus, ve kterém proměnná `i` začíná na 0 a roste až dokud není menší než délka pole. To znamená, že cyklus číslem `i` postupně **projde všechny indexy** pole. V každém průchodu se uživatele zeptá na číslo a následně jej uloží na index, který určuje aktuální hodnota `i`. Tedy v prvním průchodu na index 0, v druhém na index 1 a tak dále. Čísly zadanými od uživatele takto naplní celé pole.
+Program po vytvoření pole začne vykonávat cyklus, ve kterém proměnná `i` začíná na 0 a roste, dokud je menší než délka pole. Zde se uplatňuje skutečnost, že poslední index v poli je vždy o 1 menší než jeho délka. To znamená, že cyklus číslem `i` postupně **projde všechny indexy** pole. V každém průchodu se uživatele zeptá na číslo a následně jej uloží na index, který určuje aktuální hodnota `i`. Tedy v prvním průchodu na index 0, v druhém na index 1 a tak dále. Čísly zadanými od uživatele takto naplní celé pole.
 
 Následuje výzva, aby uživatel zadal číslo, které se má mezi uloženými vyhledat. To se uloží do proměnné. Poté se pole znovu prochází dalším cyklem, který porovná hodnotu na každém indexu s hledaným číslem. A pokud se rovnají, vypíše aktuální `i`, tedy index, na němž se hledané číslo nachází.
 
@@ -65,7 +65,7 @@ Uživatel napsal, že chce uložit 4 čísla a postupně je zadal: 3, 6, 4, 6. P
 
 ## Foreach
 
-Mnohé programovací jazyky mají také zkratku pro zapsání cyklu, který prochází pole. Např. v C# je to cyklus `foreach` (anglicky *pro každý*), který projde pole a každý prvek vždy rovnou poskytne v proměnné. Její název se uvádí v závorkach po slově `foreach`. V těch ještě následuje slovo `in` a poté pole, které se bude procházet:
+Mnohé programovací jazyky mají pro zapsání cyklu, který prochází pole, také zkrácený zápis. Např. v C# je to cyklus `foreach` (anglicky *pro každý*), který projde pole a každý prvek vždy rovnou poskytne v proměnné. Její název se uvádí v závorkach po slově `foreach`. V těch ještě následuje slovo `in` a poté pole, které se bude procházet:
 
 ```csharp
 foreach (int number in numbers)
