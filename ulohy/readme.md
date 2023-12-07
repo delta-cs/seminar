@@ -30,3 +30,7 @@ Složka úlohy vždy obsahuje
   2. [Trojúhelník](13-trojuhelnik)
   3. [Balení do krabice](14-baleni-do-krabice)
   4. [Desítkový rozklad](15-desitkovy-rozklad)
+  5. [Kosodélník](16-kosodelnik)
+  6. [Vlaječka](17-vlajecka)
+  7. [Nabíjení akumulátoru](18-nabijeni-akumulatoru)
+  8. [Tabulka násobků](19-tabulka-nasobku)
