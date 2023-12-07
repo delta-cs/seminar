@@ -22,3 +22,11 @@ V těle vnitřního cyklu se vždy vypíše jeden znak. Je zde nutné použít t
 vnitřního cyklu je ale vždy nutné řádek poskládaný z těchto znaků opravdu zalomit, aby vznikl trojúhelník. K tomu je
 použita stará známá funkce pro výpis, která na konec předaného textu přidává `\n`. V tomto případě ale žádný text
 nedostane, a tak pouze řádek zalomí. Tímto postupem se vykreslí celý trojúhelník.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

@@ -23,3 +23,11 @@ tedy vypíše o jednu mezeru navíc. To je žádoucí, protože alespoň jednou 
 odděleno. Po mezerách stačí vypsat samotný výsledek buňky a za ním mezeru a svislítko. Tím cyklus na sloupce končí.
 
 Na konci vnějšího cyklu pak už dochází pouze k odřádkování a znovu vypsání vodorovné čáry o šířce celé tabulky.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

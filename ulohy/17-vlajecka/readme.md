@@ -98,3 +98,8 @@ invalid
 
 Vlaječka by byla vysoká 5 řádků (vizte příklad #2) a pod ní by ještě byly dva řádky žerdi – dohromady 7 řádků. Žerď má
 ale jen 6, zavěšení tudíž není možné.
+
+---
+
+- [řešení](reseni)
+- [testy](testy)

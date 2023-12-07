@@ -19,3 +19,11 @@ podle čísla řádku (`i`): ten musí být od 1 do výšky - 1. A zároveň pod
 strany - 1. Tuto podmínku zajišťuje ternární operátor, který pro výpis vybírá buď křížek nebo mezeru.
 
 Na konci vnějšího cyklu se vypíše zalomení řádku. Tímto postupem vznikne celý kosodélník.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

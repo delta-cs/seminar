@@ -14,3 +14,11 @@ cyklu. Pokud ano, zvýší se proměnná pro počet sudých, jinak se zvýší p
 
 Po skončení cyklu je vytvořena podmínka pro výpis s výchozí hodnotou `equal`. Pokud je ovšem sudých čísel více než
 lichých nebo naopak, v podmínce se proměnná změní na příslušnou odpověď.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

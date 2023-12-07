@@ -20,3 +20,11 @@ příslušnou odpověď. Ta má výchozí hodnotu `unused` a případně se změ
         - Ano: `discharging`
 
 Odpověď je nakonec vypsána.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

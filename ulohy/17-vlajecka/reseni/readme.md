@@ -20,3 +20,11 @@ Třetí cyklus se postará o spodní část vlajky – zbylé řádky pod prost�
 proměnná `i` vnějšího cyklu musí klesat.
 
 Nakonec se vykreslí spodek žerdi pod vlajkou – to už je snadné, protože počet těchto řádků byl zadán na vstupu.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

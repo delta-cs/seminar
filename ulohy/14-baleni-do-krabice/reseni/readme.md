@@ -28,3 +28,11 @@ už nejsou žádné další předměty. Kvůli tomu se v podmínce cyklu nacház
 načtený vstup se nerovná -1. Toto číslo totiž značí, že na páse žádné další předměty nejsou, a cyklus tak může skončit.
 
 Nakonec se vypíše proměnná ukládající objem všech věcí vložených do krabice.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

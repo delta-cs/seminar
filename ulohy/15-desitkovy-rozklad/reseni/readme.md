@@ -15,3 +15,11 @@ Následuje druhý cyklus, který:
 4. Aktualizuje `number` na zbytek po dělení vypočítanou mocninou 10. Např. 3714 % 1000 = 714. Tím je `number` připravena na výpočet v dalším průchodu. A protože se jí sníží počet cifer, sníží se také hodnota `size`.
 
 Cyklus se opakuje, dokud number neklesne na nulu.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

@@ -75,3 +75,8 @@ both
 
 Ze třetího na čtvrté měření byl akumulátor vybíjen, hned poté ale začalo nabíjení. Došlo k oběma možným změnám,
 tudíž `both`.
+
+---
+
+- [řešení](reseni)
+- [testy](testy)

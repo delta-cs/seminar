@@ -69,3 +69,8 @@ Sklon strany b je vždy takový, že znak je posunut o jednu mezeru doprava opro
  ##
 ##
 ```
+
+---
+
+- [řešení](reseni)
+- [testy](testy)
