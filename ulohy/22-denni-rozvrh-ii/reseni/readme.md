@@ -12,7 +12,7 @@ na stejném indexu ve třetím poli koncový čas.
 
 Následný `for` cyklus (běžící tolikrát, kolik je činností) tato pole naplní hodnotami ze vstupu. Pokaždé načte jméno a
 pak dvakrát využije funkci `readTime`. Ta vždy načte ze dvou řádků hodiny a minuty a vrátí čas v minutách: hodiny × 60 +
-minuty. Jedná se o stejný princip, jako v říjnovém [Denním rozvrhu](06-denni-rozvrh). Pomocí této funkce se k činnosti
+minuty. Jedná se o stejný princip, jako v říjnovém [Denním rozvrhu](/ulohy/06-denni-rozvrh). Pomocí této funkce se k činnosti
 načte její počáteční a koncový čas.
 
 Po skončení cyklu se načte aktuální čás. Zbývá vypsat, která činnost tomuto času odpovídá. Nejdřív se založí logická
