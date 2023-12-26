@@ -34,3 +34,9 @@ Složka úlohy vždy obsahuje
   6. [Vlaječka](17-vlajecka)
   7. [Nabíjení akumulátoru](18-nabijeni-akumulatoru)
   8. [Tabulka násobků](19-tabulka-nasobku)
+
+- prosinec: pole
+1. [Pozpátku](20-pozpatku)
+2. [Brigády](21-brigady)
+3. [Denní rozvrh II](22-denni-rozvrh-ii)
+4. [Kroužky](23-krouzky)
