@@ -41,3 +41,6 @@ Složka úlohy vždy obsahuje
     2. [Brigády](21-brigady)
     3. [Denní rozvrh II](22-denni-rozvrh-ii)
     4. [Kroužky](23-krouzky)
+  5. [Posun](24-posun)
+  6. [Barvení](25-barveni)
+  7. [Poklad v řece](26-poklad-v-rece)
