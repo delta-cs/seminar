@@ -2,34 +2,40 @@
 
 Ačkoli to není pro řešení úloh naprosto nezbytné, bude se hodit znát způsob a formu, v jaké počítače zaznamenávají veškerá data. Budete-li informatiku dále studovat, jistě se s tím ještě mnohokrát sektáte.
 
-Dnešní počítače jsou stroje založené na elektronických součástkách. Těmi buď proud prochází a nebo neprochází – mají pouze dva stavy, které mohou nastat. Často jsou označovány čísly 0 a 1. Jeden takový záznam, který drží buď 0 nebo 1, se nazývá **bit**. Máme-li jeden bit, můžeme reprezentovat pouze dva různé stavy – `0`, `1` – např. pravda nebo nepravda. Když přidáme druhý bit, jsme schopni reprezentovat čtyři různé stavy: `00`, `01`, `10`, `11`. Tím už by se dalo třeba počítat od 0 do 3. S každým přidaným bitem narůstá počet kombinací a tedy velikost dat, která můžeme pomocí těchto bitů reprezentovat. Pro osm bitů se používá zvláštní označení: **bajt** (angl. byte).
+Dnešní počítače jsou stroje založené na elektronických součástkách. Těmi buď proud prochází a nebo neprochází – mají pouze dva stavy, které mohou nastat. Často jsou označovány čísly 0 a 1. Jeden takový záznam, který drží buď 0 nebo 1, se nazývá **bit**. Máme-li jeden bit, můžeme reprezentovat pouze dva různé stavy – `0`, `1` – např. pravda nebo nepravda. Když přidáme druhý bit, jsme schopni reprezentovat čtyři různé stavy: `00`, `01`, `10`, `11`. Tím už by se dalo třeba počítat od 0 do 3. S každým přidaným bitem narůstá počet variací (různých stavů) a tedy množství dat, která můžeme pomocí těchto bitů reprezentovat. Pro osm bitů se používá zvláštní označení **bajt** (angl. byte).
 
 ## Čísla
 
-Při práci s bity si lze všimnout jisté podobnosti se způsobem, jakým počítají a reprezentují čísla lidé. Ti využívají takzvanou **desítkovou soustavu** – je 10 různých stavů, které číslice může nabýt: od 0 do 9. Když počítáme od 1 a dojdeme k 9, vynulujeme ji a před ni přidáme další číslici, zase začínající na 1, po 9 tedy následuje 10. Když píšeme čísla s nulami na začátku, je to ještě zřetelnější:
+Při práci s bity si lze všimnout jisté podobnosti se způsobem, jakým počítají a reprezentují čísla lidé. Ti využívají takzvanou **desítkovou soustavu** – je 10 různých stavů, kterých číslice může nabýt: od 0 do 9. Když počítáme od 1 a dojdeme k 9, vynulujeme ji a před ni přidáme další číslici, zase začínající na 1, po 9 tedy následuje 10. Když píšeme čísla s nulami na začátku, je to ještě zřetelnější:
 
 ```
 00
 01
 02
-...
+.
+.
+.
 08
 09
 10
 11
 12
-...
+.
+.
+.
 18
 19
 20
 21
 22
-...
+.
+.
+.
 ```
 
 Vždy zvyšujeme poslední číslo a když už to nejde (jsme na 9), vynulujeme a zvýšíme to, které je vlevo od něj.
 
-Počítače nemají pro číslici deset stavů, ale pouze dva – 0 a 1. Používají tedy **dvojkovou** (binární) **soustavu**, v té se však počítá úplně stejně. Příklad se čtyřmi bity:
+Počítače nemají pro číslici deset stavů, ale pouze dva – 0 a 1. Používají tedy **dvojkovou** (binární) **soustavu**. V té se však počítá úplně stejně. Příklad se čtyřmi bity:
 
 ```
 0000
@@ -50,11 +56,11 @@ Počítače nemají pro číslici deset stavů, ale pouze dva – 0 a 1. Použí
 1111
 ```
 
-Když můžeme, zvyšujeme číslo, které je nejvíc vpravo z 0 na 1. Když nemůžeme, zvýšíme číslo vlevo od něj. Když to také nejde, zvýšíme číslo o další pozici vlevo. A tak dále. Při zvýšení dalšího čísla vynulujeme pozice vpravo od něj. Stejně jako v desítkové soustavě.
+Když můžeme, zvyšujeme číslo, které je nejvíc vpravo z 0 na 1. Když nemůžeme, zvýšíme číslo vlevo od něj. Když to také nejde, zvýšíme číslo o další pozici vlevo. A tak dále. Při zvýšení dalšího čísla vynulujeme pozice vpravo od něj – stejně jako v desítkové soustavě.
 
-Čtyři bity nám poskytují těchto 16 kombinací. Můžeme tedy například reprezentovat jedno číslo od 0 do 15.
+Čtyři bity nám poskytují těchto 16 variací. Můžeme tedy například reprezentovat jedno číslo od 0 do 15.
 
-Právě tento systém využívají počítače k reprezentaci celých čísel. Výše zmíněný bajt (osm bitů) dává 256 kombinací – číslo od 0 do 255. Takový rozsah je samozřejmě často nedostatečný. Celočíselné datové typy tak mívají často bajtů několik. Počet kombinací roste s počtem bitů velmi rychle (tzv. exponenciálně). Při 4 bajtech (32 bitech) je kombinací 4,294,967,296.
+Právě tento systém využívají počítače k reprezentaci celých čísel. Výše zmíněný bajt (osm bitů) dává 256 variací – číslo od 0 do 255. Takový rozsah je samozřejmě často nedostatečný. Celočíselné datové typy tak mívají bajtů několik. Počet variací roste s počtem bitů velmi rychle (tzv. exponenciálně). Při 4 bajtech (32 bitech) je jich 4 294 967 296.
 
 Ještě mnohé aspekty reprezentace čísel v počítači tato stránka nepokrývá. Jak zaznamenat záporná čísla? Nebo desetinná? Tady zájemce odkážeme na [článek z itnetwork.cz](https://www.itnetwork.cz/hardware-pc/principy-pocitacu/reprezentace-cisel-v-pocitaci).
 
@@ -85,8 +91,8 @@ Mimochodem, desetinná čísla jsou pro počítače trochu oříškem. Zkuste si
 
 Obsahuje písmena anglické abecedy, čísla, interpunkce a další znaky. Na začátku tabulky se nacházejí tzv. řídící (netisknutelné) kódy, např. backspace (8), tabulátor (9) nebo znak nového řádku (10).
 
-ASCII tabulka brzy přestane být dostatečná. Proto se dnes ve většině programů využívá znaková sada Unicode a kódování UTF-8, v němž je možné zapsat např. znaky z jiných jazyků a nebo emoji.
+ASCII tabulka brzy přestane být dostatečná. Proto se dnes ve většině programů využívá znaková sada Unicode a kódování UTF-8, v němž je možné zapsat např. znaky z jiných jazyků a nebo emoji. Princip ale zůstává stejný – každému možnému znaku je přiřazeno celé číslo.
 
 ## Ostatní typy dat
 
-Když je potřeba reprezentovat jiná média, třeba obrázek nebo zvukovou nahrávku, přistupuje se k nim v zásadě stejně, jako k textu. Nejdříve je nutné vynalézt způsob, jak je vyjádřit číselně (digitálně), a poté tento standard zavést do programu, jež má s daným médiem pracovat.
+Když je potřeba reprezentovat jiná média, třeba obrázek nebo zvukovou nahrávku, přistupuje se k nim v zásadě stejně jako k textu. Nejdříve je nutné vynalézt způsob, jak je vyjádřit číselně (digitálně), a poté tento standard zavést do programu, jenž má s daným médiem pracovat.
