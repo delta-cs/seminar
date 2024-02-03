@@ -12,6 +12,12 @@ Vytvoření pole se provádí pouhými hranatými závorkami:
 numbers = []
 ```
 
+Vytvoření 2D pole s rozměry 4 × 3 naplněného nulami:
+
+```python
+numbers = [[False for _ in range(3)] for _ in range(4)]
+```
+
 ## Přidání prvku
 
 Prvek se do pole přidá zavoláním funkce `append` (mezi názvem pole a funkcí je tečka). Příklad:

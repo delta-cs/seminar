@@ -39,10 +39,12 @@ for (int i = 0; i < width; i++)
 
 Vnější cyklus s proměnnou `i` prochází indexy hlavního pole. Vnitřní cyklus pak s proměnnou `j` prochází indexy všech vnitřních polí. Ke každému prvku se přistupuje pomocí těchto dvou indexů (`i` a `j`).
 
+---
+
 V C# (narozdíl od jiných jazyků) lze 2D pole vytvořit ještě zkráceným zápisem: zapsáním čárky mezi první hranaté závorky a následné uvedení rozměrů mezi druhé:
 
 ```csharp
-int[,] map = int[4, 3];
+int[,] map = new int[4, 3];
 ```
 
 K prvkům se pak také přistupuje indexy oddělenými čárkou:
@@ -50,5 +52,14 @@ K prvkům se pak také přistupuje indexy oddělenými čárkou:
 ```csharp
 int number = map[1, 2];
 ```
+
+A rozměry na jednotlivých osách lze zjistit pomocí funkce `GetLength`:
+
+```csharp
+int width = map.GetLength(0); // 4
+int height = map.GetLength(1); // 3
+```
+
+---
 
 Pole mohou být i více než 2rozměrná – lze jich do sebe zanořit v podstatě libovolné množství (na které vystačí paměť).

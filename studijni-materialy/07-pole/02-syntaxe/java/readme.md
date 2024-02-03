@@ -17,6 +17,12 @@ int n = 5;
 int[] numbers = new int[n];
 ```
 
+Vytvoření 2D pole s rozměry 4 × 3:
+
+```java
+int[][] numbers = new int[4][3];
+```
+
 ## Přístup k prvku
 
 K nastavení nebo přečtení hodnoty konkrétního prvku na daném indexu se využívají hranaté závorky za názvem pole. Mezi ně patří index tohoto prvku. Příklad:

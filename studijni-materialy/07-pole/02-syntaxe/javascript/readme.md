@@ -10,6 +10,19 @@ Vytvoření pole se provádí pouhými hranatými závorkami:
 const numbers = [];
 ```
 
+Vytvoření 2D pole s rozměry 4 × 3 naplněného nulami:
+
+```jsx
+const numbers = [];
+
+for (let i = 0; i < w; i++) {
+    numbers.push([]);
+    for (let j = 0; j < h; j++) {
+        numbers[i].push(0);
+    }
+}
+```
+
 ## Přístup k prvku
 
 K nastavení nebo přečtení hodnoty konkrétního prvku na daném indexu se využívají hranaté závorky za názvem pole. Mezi ně patří index tohoto prvku. Příklad:

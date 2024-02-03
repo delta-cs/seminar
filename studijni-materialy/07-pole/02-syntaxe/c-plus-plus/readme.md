@@ -32,6 +32,12 @@ int n = 5;
 std::vector<int> numbers(n);
 ```
 
+Vytvoření 2D vektoru s počátečními rozměry 4 × 3:
+
+```cpp
+std::vector<std::vector<int>> grid(4, std::vector<int>(3));;
+```
+
 ## Přístup k prvku
 
 K nastavení nebo přečtení hodnoty konkrétního prvku na daném indexu se využívají hranaté závorky za názvem vektoru. Mezi ně patří index tohoto prvku. Příklad:
