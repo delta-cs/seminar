@@ -63,3 +63,5 @@ int height = map.GetLength(1); // 3
 ---
 
 Pole mohou být i více než 2rozměrná – lze jich do sebe zanořit v podstatě libovolné množství (na které vystačí paměť).
+
+Ukázky syntaxe vícerozměrných polí v konkrétních jazycích se nachází na stránce [Syntaxe](/studijni-materialy/07-pole/02-syntaxe). 
