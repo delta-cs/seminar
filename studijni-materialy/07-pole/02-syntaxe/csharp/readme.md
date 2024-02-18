@@ -58,7 +58,13 @@ Je vypsána hodnota na indexu 1, tedy 8. Následně je změněna na 6 a vypsána
 
 ## Přidání prvku
 
-Pole v C# mají pevnou délku, která se musí určit při vytvoření a pak nelze změnit. Proto do polí nelze přidávat nové prvky. Tuto možnost nabízí takzvaný `List`. U něj se datový typ uchovávaných hodnot uvádí při vytvoření do špičatých závorek. Na konci řádku se ještě musí nacházet kulaté závorky:
+Pole v C# mají pevnou délku, která se musí určit při vytvoření a pak nelze změnit. Proto do polí nelze přidávat nové prvky. Tuto možnost nabízí takzvaný `List`. Pro jeho použití je za potřebí přidat na začátek souboru
+
+```csharp
+using System.Collections.Generic;
+```
+
+Datový typ uchovávaných hodnot se u `List`u uvádí při vytvoření do špičatých závorek. Na konci řádku se ještě musí nacházet kulaté závorky:
 
 ```csharp
 List<int> numbers = new List<int>();

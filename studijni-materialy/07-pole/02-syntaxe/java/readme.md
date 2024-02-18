@@ -57,7 +57,13 @@ Je vypsána hodnota na indexu 1, tedy 8. Následně je změněna na 6 a vypsána
 
 ## Přidání prvku
 
-Pole v Javě mají pevnou délku, která se musí určit při vytvoření a pak nelze změnit. Proto do polí nelze přidávat nové prvky. Tuto možnost nabízí takzvaný `ArrayList`. U něj se datový typ uchovávaných hodnot uvádí při vytvoření do špičatých závorek. Pozor, pro ukládání celých čísel je nutné napsat typ `Integer` místo `int`. Na konci řádku se ještě musí nacházet kulaté závorky:
+Pole v Javě mají pevnou délku, která se musí určit při vytvoření a pak nelze změnit. Proto do polí nelze přidávat nové prvky. Tuto možnost nabízí takzvaný `ArrayList`. Pro jeho použití je za potřebí přidat na začátek souboru
+
+```java
+import java.util.ArrayList;
+```
+
+U něj se datový typ uchovávaných hodnot uvádí při vytvoření do špičatých závorek. Pozor, pro ukládání celých čísel je nutné napsat typ `Integer` místo `int`. Na konci řádku se ještě musí nacházet kulaté závorky:
 
 ```java
 ArrayList<Integer> numbers = new ArrayList<>();
