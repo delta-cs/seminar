@@ -41,6 +41,13 @@ Složka úlohy vždy obsahuje
     2. [Brigády](21-brigady)
     3. [Denní rozvrh II](22-denni-rozvrh-ii)
     4. [Kroužky](23-krouzky)
-  5. [Posun](24-posun)
-  6. [Barvení](25-barveni)
-  7. [Poklad v řece](26-poklad-v-rece)
+    5. [Posun](24-posun)
+    6. [Barvení](25-barveni)
+    7. [Poklad v řece](26-poklad-v-rece)
+
+- únor: vícerozměrná pole
+    1. [Transpozice](31-transpozice)
+    2. [Zrcadlo](32-zrcadlo)
+    3. [Obraz](33-obraz)
+    4. [Piškvorky](34-piskvorky)
+    5. [Navigace skladníka](35-navigace-skladnika)
