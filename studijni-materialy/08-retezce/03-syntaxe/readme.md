@@ -8,4 +8,3 @@ operace a vlastnosti, které řetězce nabízí, můžete dohledat v dokumentaci
 - [syntaxe řetězců v Javě](java)
 - [syntaxe řetězců v JavaScriptu](javascript)
 - [syntaxe řetězců v Pythonu](python)
-- 
