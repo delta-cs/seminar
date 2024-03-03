@@ -14,3 +14,11 @@ daných souřadnicích. Po jeho skončení se ve vnějším cyklu zalomí řáde
 
 Pozn.: Do 2D pole by šlo zapisovat i v opačném pořadí indexů – nejprve sloupce, v nich pak řádky. Pro transpozici je
 důležité jen to, aby `for` cykly pro výpis byly v obráceném pořadí než ty pro načtení.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)

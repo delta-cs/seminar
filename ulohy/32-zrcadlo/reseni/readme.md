@@ -9,3 +9,11 @@ sloupce k prvnímu, v druhém případě od posledního řádku k prvnímu. V ob
 zalomení nového řádku.
 
 Výsledkem je tak vypsání znaků, které odpovídá odrazu papírku v zrcadle.
+
+---
+
+- [řešení v C++](main.cpp)
+- [řešení v C#](main.cs)
+- [řešení v Javě](main.java)
+- [řešení v JavaScriptu](main.js)
+- [řešení v Pythonu](main.py)
