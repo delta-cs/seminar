@@ -143,7 +143,7 @@ String title = "The Chronicles of the Rings";
 String correct = title.replace("Chronicles", "Lord");
 ```
 
-## Zřetězení prvků pole: `String.join()`
+## Zřetězení prvků pole: `String.join`
 
 ```java
 String[] titleParts = new String[3];
