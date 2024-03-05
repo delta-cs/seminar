@@ -1,0 +1,14 @@
+4
+
+Abraham
+7
+
+Isaac
+7.6
+
+Esau
+5.6
+
+Jacob
+8.2
+

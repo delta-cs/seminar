@@ -45,6 +45,12 @@ Složka úlohy vždy obsahuje
     6. [Barvení](25-barveni)
     7. [Poklad v řece](26-poklad-v-rece)
 
+- leden: zimní finále
+    1. [Přijímací řízení](27-prijimaci-rizeni)
+    2. [Ptáci](28-ptaci)
+    3. [Zídka](29-zidka)
+    4. [Robožába](30-robozaba)
+
 - únor: vícerozměrná pole
     1. [Transpozice](31-transpozice)
     2. [Zrcadlo](32-zrcadlo)
