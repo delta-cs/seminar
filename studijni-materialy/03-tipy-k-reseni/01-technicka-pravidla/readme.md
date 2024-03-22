@@ -18,7 +18,7 @@ Ve všech úlohách platí tato sada pravidel:
 Vaše řešení spouštíme na těchto verzích jazyků/kompilátorů:
 
 - C++ a C: GCC 9.4.0
-- C# 8.0 (Mono 6.8.0)
+- C# 12.0 (.NET 8.0)
 - Java 11
 - Node.js 10.19
 - Python 3.6
