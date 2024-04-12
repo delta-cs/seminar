@@ -28,7 +28,7 @@ Hodnoty na daných indexech se dají změnit, stejně jako hodnoty proměnných.
 <tr><th>hodnota</th><td>13</td><td>7</td><td>2</td><td>4</td><td>7</td></tr>
 </table>
 
-Do polí je také možné další prvky přidávat. Nový prvek bude mít vždy index o 1 větší než ten poslední. Přidání čísla 10 do tohoto pole tak vypadá takto:
+Do polí je také možné další prvky přidávat. Nový prvek bude mít vždy index o 1 větší než ten poslední. Přidání čísla 10 do tohoto pole tedy vypadá takto:
 
 <table>
 <tr><th>index</th><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
@@ -37,4 +37,4 @@ Do polí je také možné další prvky přidávat. Nový prvek bude mít vždy 
 
 Na konci vznikl nový prvek s indexem 5 a do něj byla uložena hodnota 10.
 
-Prvky se z polí dají i odebírat. Co se potom s hodnotami a indexy děje, to necháme na vašem dohledání.
+Prvky se z polí dají i odebírat. Co se potom s hodnotami a indexy děje, to necháme na vašem vyzkoušení nebo dohledání.
