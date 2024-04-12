@@ -15,6 +15,6 @@ První dvě z těchto operací jste již při řešení úloh Pardubického hack
 - **Podřetězec:** Získání části řetězce podle určených indexů, popř. délky.
 - **Rozdělení** řetězce na podřetězce na základě zadaného oddělovače; výsledkem je pole těchto podřetězců.
 - **Hledání** znaku nebo delšího podřetězce, konkrétně zjištění indexu prvního takového výskytu.
-- **Nahrazení** prvního nebo ****všech výskytů zadaného znaku nebo podřetězce jiným znakem nebo řetězcem.
+- **Nahrazení** prvního nebo všech výskytů zadaného znaku nebo podřetězce jiným znakem nebo řetězcem.
 - **Zřetězení** prvků pole do jednoho řetězce určeným oddělovačem, který se ve výsledku bude mezi jednotlivými prvky
   nacházet.
