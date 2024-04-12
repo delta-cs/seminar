@@ -11,7 +11,7 @@ První dvě z těchto operací jste již při řešení úloh Pardubického hack
   bodu.
 - **Převod velikosti písmen** na malá nebo velká.
 - **Ořezání bílých znaků** (mezery, tabulátory, zalomení řádku aj.) na začátku a na konci řetězce.
-- **Spojování** dvou nebo více řetězců (ať už proměnných nebo i pevně zadaných v kódu) do jednoho delšího.
+- **Spojování** dvou nebo více řetězců (ať už proměnných, nebo i pevně zadaných v kódu) do jednoho delšího.
 - **Podřetězec:** Získání části řetězce podle určených indexů, popř. délky.
 - **Rozdělení** řetězce na podřetězce na základě zadaného oddělovače; výsledkem je pole těchto podřetězců.
 - **Hledání** znaku nebo delšího podřetězce, konkrétně zjištění indexu prvního takového výskytu.
