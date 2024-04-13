@@ -91,7 +91,7 @@ String original = " Hello, world!  ";
 String trimmed = original.trim();
 ```
 
-## Spojování řetězců: `+`
+## Spojování: `+`
 
 ```java
 String author = "C. S. Lewis";
@@ -116,7 +116,7 @@ String book = original.substring(13);
 String lastName = original.substring(6, 11);
 ```
 
-## Rozdělení řetězce: `split`
+## Rozdělení: `split`
 
 ```java
 String original = "C. S. Lewis";

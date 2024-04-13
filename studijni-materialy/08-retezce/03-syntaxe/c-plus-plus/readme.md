@@ -74,7 +74,7 @@ original.erase(0, original.find_first_not_of(" "));
 original.erase(original.find_last_not_of(" ") + 1);
 ```
 
-## Spojování řetězců: `+`
+## Spojování: `+`
 
 ```cpp
 std::string author = "C. S. Lewis";
@@ -108,7 +108,7 @@ std::string quote = "Remember the signs and believe the signs.";
 size_t firstResultIndex = quote.find("signs");
 ```
 
-## Rozdělení řetězce: `find` a `substr`
+## Rozdělení: `find` a `substr`
 
 ```cpp
 std::string title = "The Chronicles of the Rings";

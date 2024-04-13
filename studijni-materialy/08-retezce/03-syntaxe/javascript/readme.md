@@ -66,7 +66,7 @@ const original = " Hello, world!  ";
 const trimmed = original.trim();
 ```
 
-## Spojování řetězců: `+` nebo ``` a `${}`
+## Spojování: `+` nebo ``` a `${}`
 
 ```jsx
 const author = "C. S. Lewis";
@@ -94,7 +94,7 @@ const book = original.substring(13);
 const lastName = original.substring(6, 11);
 ```
 
-## Rozdělení řetězce: `split`
+## Rozdělení: `split`
 
 ```jsx
 const original = "C. S. Lewis";

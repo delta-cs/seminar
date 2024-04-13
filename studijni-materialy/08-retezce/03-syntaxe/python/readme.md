@@ -71,7 +71,7 @@ original = " Hello, world!  "
 stripped = original.strip()
 ```
 
-## Spojování řetězců: `+`
+## Spojování: `+`
 
 ```python
 author = "C. S. Lewis"
@@ -81,7 +81,7 @@ book = "The Chronicles of Narnia"
 title1 = author + ": " + book
 ```
 
-## Násobení řetězců
+## Násobení: `*`
 
 ```python
 syllable = "la"
@@ -108,7 +108,7 @@ last_name = original[6:11]
 Tato syntaxe nabízí ještě více možností, jak získat podřetězec. Například lze dosadit záporná čísla anebo tři místo
 dvou. Zjistit, jaké to má účinky, necháme na vás.
 
-## Rozdělení řetězce: `split`
+## Rozdělení: `split`
 
 ```python
 original = "C. S. Lewis"

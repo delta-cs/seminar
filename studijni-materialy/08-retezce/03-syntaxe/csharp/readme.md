@@ -71,7 +71,7 @@ string original = " Hello, world!  ";
 string trimmed = stringWithWhitespace.Trim();
 ```
 
-## Spojování řetězců: `+` nebo `$` a `{}`
+## Spojování: `+` nebo `$` a `{}`
 
 ```csharp
 string author = "C. S. Lewis";
@@ -99,7 +99,7 @@ string book = original.Substring(13);
 string lastName = original.Substring(6, 5);
 ```
 
-## Rozdělení řetězce: `Split`
+## Rozdělení: `Split`
 
 ```csharp
 string original = "C. S. Lewis";
