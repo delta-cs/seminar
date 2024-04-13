@@ -10,3 +10,5 @@ Vzdělávací texty k různým tématům z informatiky, užitečné mimo jiné p
 6. [Cykly](06-cykly)
 7. [Pole](07-pole)
 8. [Řetězce](08-retezce)
+9. [Množiny](09-mnoziny)
+10. [Asociativní pole](10-asociativni-pole)
