@@ -57,3 +57,10 @@ Složka úlohy vždy obsahuje
   3. [Obraz](33-obraz)
   4. [Piškvorky](34-piskvorky)
   5. [Navigace skladníka](35-navigace-skladnika)
+
+- březen: řetězce
+  1. [Palindrom](36-palindrom)
+  2. [Desítkový rozklad II](37-desitkovy-rozklad-ii)
+  3. [Textový (de)komprimátor](38-textovy-dekomprimator)
+  4. [Souborový systém](39-souborovy-system)
+  5. [Abecední pořadí](40-abecedni-poradi)
