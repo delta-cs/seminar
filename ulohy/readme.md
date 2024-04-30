@@ -64,3 +64,8 @@ Složka úlohy vždy obsahuje
     3. [Textový (de)komprimátor](38-textovy-dekomprimator)
     4. [Souborový systém](39-souborovy-system)
     5. [Abecední pořadí](40-abecedni-poradi)
+
+- duben: složitější algoritmy
+    1. [Kontrola pravopisu](41-kontrola-pravopisu)
+    2. [Kuchyňský robovysavač](42-kuchynsky-robovysavac)
+    3. [Mateřský programovací jazyk](43-matersky-programovaci-jazyk)
