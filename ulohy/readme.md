@@ -69,3 +69,8 @@ Složka úlohy vždy obsahuje
     1. [Kontrola pravopisu](41-kontrola-pravopisu)
     2. [Kuchyňský robovysavač](42-kuchynsky-robovysavac)
     3. [Mateřský programovací jazyk](43-matersky-programovaci-jazyk)
+
+- květen: soubory
+    1. [Čtení souboru](44-cteni-souboru)
+    2. [Rozbalovač](45-rozbalovac)
+    3. [Adresářový strom](46-adresarovy-strom)
