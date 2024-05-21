@@ -1,4 +1,4 @@
-# Řetězce
+# Množiny
 
 Vysvětlení množin a jejich syntaxe. Doporučené je chronologické čtení.
 

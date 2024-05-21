@@ -1,4 +1,4 @@
-# Řetězce
+# Asociativní pole
 
 Vysvětlení asociativních polí a jejich syntaxe. Doporučené je chronologické čtení.
 
